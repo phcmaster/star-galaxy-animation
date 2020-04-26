@@ -51,7 +51,7 @@ class Star {
     
   }
   
-//-------- FUNÇÃO QUE CRIA A A STAR SHAPE -----------------
+//-------- FUNÇÃO QUE CRIA A STAR SHAPE -----------------
 
   void starShapeform(float x, float y, float radius1, float radius2, int npoints) {
   float angle = TWO_PI / npoints;
